@@ -8,7 +8,7 @@ public class Medic extends  Hero  {
 
 
     }
-    public String increaseExperience() {
+    public  String increaseExperience() {
         String HP = healPoints +10+"%";
         return HP;
     }
