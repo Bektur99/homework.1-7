@@ -13,9 +13,6 @@ public class Main {
                 ((Medic) arrayName[i]).increaseExperience();
             }
         }
-           Medic Ability = new Medic();
-           Ability.increaseExperience();
-            System.out.println(" количество единиц лечения увеличивалось на 10%." );
         }
 
         }
